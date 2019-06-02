@@ -1,4 +1,1 @@
-New file ic created
-new line added
-this is the thirs line of the file
-This is the fouth line added in the file
+First line added
